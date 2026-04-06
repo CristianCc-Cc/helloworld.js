@@ -1,3 +1,4 @@
 
-#!/usr/bin/js
+#/usr/bin/node
+
 console.log("Hello, world!");
